@@ -8,7 +8,7 @@ public class Program {
 
 		Scanner sc = new Scanner(System.in);
 
-		System.out.print("Insira n: ");
+		System.out.println("Insert n: ");
 		int n = sc.nextInt();
 		int[][] mat = new int[n][n];
 		
